@@ -1,0 +1,16 @@
+# Ignore generated Tailwind CSS output
+dist/
+
+# Ignore Tailwind standalone CLI binary
+tailwindcss.exe
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore VS Code or editor settings
+.vscode/
+.idea/
+
+# Ignore logs
+*.log
