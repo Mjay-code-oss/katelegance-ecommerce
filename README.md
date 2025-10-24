@@ -129,8 +129,7 @@ I chose to build an e-commerce site because:
 4. E-commerce is a growing industry with high demand for developers
 
 ## 🌍 Live Demo
-
-*Coming soon - Will be deployed via GitHub Pages*
+[View Live Site](https://mjay-code-oss.github.io/katelegance-ecommerce/)
 
 ## 👩‍💻 Author
 
